@@ -1,4 +1,4 @@
-![image](https://github.com/neffexytmsk/Calculator/assets/128972750/83133c33-0ec2-4a06-bd30-613d780c673f)# Calculator
+# Calculator
 
 Программа позволяет расчитывать ввод чисел под выбранное необходимое действие
 
