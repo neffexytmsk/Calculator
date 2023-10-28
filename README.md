@@ -1,4 +1,4 @@
-# Calculator
+![image](https://github.com/neffexytmsk/Calculator/assets/128972750/83133c33-0ec2-4a06-bd30-613d780c673f)# Calculator
 
 Программа позволяет расчитывать ввод чисел под выбранное необходимое действие
 
@@ -41,11 +41,13 @@
 ```
 * Пример запуска программы
 ```
-![Image](https://github.com/neffexytmsk/MassivsApp/assets/128972750/e5f41fa7-dc98-4db8-905f-a1d93addddb4)
+![image](https://github.com/neffexytmsk/Calculator/assets/128972750/98f01947-437a-45f4-90ff-d56e53fd0ebf)
+
 ```
 * Пример клонирования репозитория
 ```
-![Image](https://github.com/neffexytmsk/MassivsApp/assets/128972750/e300d6cc-e0e2-46e2-924f-2c952475206c)
+![image](https://github.com/neffexytmsk/Calculator/assets/128972750/8f4140d3-04aa-4b92-b4a3-bb810211e277)
+
 
 #### Шаг 2 Запуск приложения
 
@@ -54,7 +56,7 @@
 ```
 * Пример запуска приложения
 ```
-![Image](image.png)
+![image](https://github.com/neffexytmsk/Calculator/assets/128972750/7d3026dd-b2b2-4512-9c33-dad1828457b7)
 
 ## Авторы
 
